@@ -9,7 +9,7 @@
 - **Competências:** modelagem, autenticação/autorização, isolamento por empresa, integridade no banco, datas/fusos, integração frontend/backend, testes e documentação.
 - **Desenvolvimento:** MVP local implementado; escopo e limitações no README.
 - **Validação:** consultar VERIFICATION.md, com evidências efetivamente executadas.
-- **GitHub:** fonte e commits locais preparados; tentativa de criação remota recusada por falta de permissão da integração (`createRepository`). Nenhum repositório remoto criado.
+- **GitHub:** publicado em https://github.com/SamirGedeon/slotwise após o usuário criar o repositório público. Código enviado à branch main.
 - **Deploy:** executado localmente no ambiente de desenvolvimento; sem URL pública.
 - **LinkedIn:** rascunho preparado, não publicado.
 - **Aprendizado do usuário:** ainda não validado. Rodar o projeto, modificar uma regra e explicá-la fazem parte da próxima etapa.

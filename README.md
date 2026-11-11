@@ -2,7 +2,7 @@
 
 A workspace-based appointment manager for small service businesses. Built with a Ruby on Rails API, PostgreSQL and React + TypeScript.
 
-**Portfolio project 01 · Functional local MVP · No hosted deployment yet**
+**Portfolio project 01 · Functional local MVP · [Public source](https://github.com/SamirGedeon/slotwise) · No hosted deployment yet**
 
 Slotwise addresses double bookings and scattered schedules. Owners define services and professionals; owners and staff can book, browse, filter, cancel and complete appointments. PostgreSQL enforces non-overlapping time ranges even when application validation is bypassed.
 
@@ -137,6 +137,6 @@ Financial totals represent scheduled value only. There are no payment transactio
 
 ## Publish the repository
 
-This folder is ready for its own Git repository named `slotwise`. Publication commands and a suggested description/topics are in [deployment notes](docs/DEPLOYMENT.md). No GitHub repository URL or deployment URL is claimed until the remote actually exists.
+This folder is ready for its own Git repository named `slotwise`. Publication commands and a suggested description/topics are in [deployment notes](docs/DEPLOYMENT.md). Public repository: https://github.com/SamirGedeon/slotwise. No hosted application deployment exists yet.
 
 MIT license. Developed with AI assistance as a learning project; only claim personal mastery after understanding and modifying the implementation.

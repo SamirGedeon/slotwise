@@ -33,3 +33,7 @@ Not performed: production deployment, real email/payment integrations, load test
 ## Publication attempt
 
 The authenticated GitHub CLI attempted to create `slotwise`, but GitHub rejected `createRepository` with `Resource not accessible by integration`. No repository was created and no GitHub-hosted workflow ran. Source delivery includes the workflow and local evidence only.
+
+## Source publication confirmed
+
+After the user created the public repository, Git push to `https://github.com/SamirGedeon/slotwise` succeeded on main. This confirms source publication, not a production application deployment or a passing remote CI run.

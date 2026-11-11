@@ -16,7 +16,7 @@ Estou usando o projeto para estudar modelagem, autorização, integração entre
 
 Próximo passo: revisar a aplicação no meu ambiente e preparar a publicação.
 
-GitHub: [inserir URL real após publicar]
+GitHub: https://github.com/SamirGedeon/slotwise
 Demo: [inserir somente se houver deploy público validado]
 
 #RubyOnRails #React #TypeScript #PostgreSQL #DesenvolvimentoFullStack #Portfolio #DevJunior
