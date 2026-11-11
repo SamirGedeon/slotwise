@@ -135,8 +135,4 @@ Sessions use sessionStorage instead of cookies, expire after 12 hours and are re
 
 Financial totals represent scheduled value only. There are no payment transactions or claims of commercial usage.
 
-## Publish the repository
 
-This folder is ready for its own Git repository named `slotwise`. Publication commands and a suggested description/topics are in [deployment notes](docs/DEPLOYMENT.md). Public repository: https://github.com/SamirGedeon/slotwise. No hosted application deployment exists yet.
-
-MIT license. Developed with AI assistance as a learning project; only claim personal mastery after understanding and modifying the implementation.
