@@ -29,3 +29,7 @@ The API and PostgreSQL ran in Docker containers, with Vite on the development ho
 The CI workflow was authored for GitHub Actions. Remote run status, if available after publication, is recorded below; a local pass does not imply a remote pass.
 
 Not performed: production deployment, real email/payment integrations, load testing, a security audit, exhaustive time-zone/DST coverage or manual testing on physical mobile devices. Rack emitted deprecation notices for the Rails/RSpec 422 status symbol; there were no failed assertions from those notices.
+
+## Publication attempt
+
+The authenticated GitHub CLI attempted to create `slotwise`, but GitHub rejected `createRepository` with `Resource not accessible by integration`. No repository was created and no GitHub-hosted workflow ran. Source delivery includes the workflow and local evidence only.

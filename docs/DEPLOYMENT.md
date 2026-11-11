@@ -2,7 +2,7 @@
 
 ## Current status
 
-Local source and documentation are prepared. No public deployment or GitHub URL is asserted. The GitHub connector in this session does not expose repository creation, and this workspace has no configured publishing credentials. Source can be downloaded and published from an authenticated local CLI.
+Local source and documentation are prepared. No public deployment or GitHub URL is asserted. The GitHub connector does not expose repository creation. The authenticated CLI was tested, but `gh repo create` was rejected by GitHub with `Resource not accessible by integration (createRepository)`. No remote repository was created. This is a GitHub integration permission restriction, not a code/test failure or a local approval rejection. Source can be published using your own GitHub CLI authorization.
 
 Suggested repository name: **slotwise**
 
